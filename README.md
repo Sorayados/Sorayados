@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soraya</h1>
 <h3 align="center">Very involved in the classical music world as a musician and in various administrative and project management roles, I've just finished Le Wagon's Bootcamp in web development.</h3>
 
-- - Astral Escapes [an Airbnb clone](https://astral-escapes-hastings-1006-c51d2b023588.herokuapp.com/)
+- - Astral Escapes [an Airbnb clone](https://github.com/Hastings1006/Astral_Escapes)
 
 - - Feline Friends [Connecting cats and cat lovers one click at a time](https://www.felinefriends.me/)
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/soraya-dos-santos-212b97172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/soraya-dos-santos-212b97172" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/soraya-dos-santos-212b97172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/soraya-dos-santos-212b97172" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
