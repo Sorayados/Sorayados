@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soraya</h1>
 <h3 align="center">Very involved in the classical music world as a musician and in various administrative and project management roles, I've just finished Le Wagon's Bootcamp in Web Development. I am a lifelong learner and I'm looking forward to the next step.</h3>
 
-- - Astral Escapes [an Airbnb clone](https://github.com/Hastings1006/Astral_Escapes)
+- - Astral Escapes [an Airbnb clone](https://astral-escapes-2ebdec1732a5.herokuapp.com/)
 
 - - Feline Friends [Connecting cats and cat lovers one click at a time](https://www.felinefriends.me/)
 
